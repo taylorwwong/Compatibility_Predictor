@@ -1,5 +1,6 @@
 # Compatibility_Predictor
 <hr></hr>
+
 ## Handling input
 The json file provided is formatted exactly the same as the sample data provided with the coding challenge. To access the data, the application calls upon the json python library. Here I use 3 separate lists (team, applicant names and applicant totals) to keep track of values pulled from the input file.
 
